@@ -79,7 +79,7 @@
 .logo {
 	height: 2.5em;
 	margin-top: 9px;
-      padding-right: 12px;
+  padding-right: 12px;
 
 }
 
@@ -263,7 +263,6 @@ font-weight: bold;
 .header{
   float:left;
   padding-left:1em;
-  padding-top: 0.48em;
 }
 
 body {
