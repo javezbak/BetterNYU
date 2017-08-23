@@ -108,7 +108,7 @@
 
 /*Formatting for body and header tags*/
 body{
-	font-family: "Kalinga", Fallback, sans-serif;
+	  font-family: "Kalinga", Fallback, sans-serif;
     background-color: #ffffff;
 
 }
@@ -263,6 +263,7 @@ font-weight: bold;
 .header{
   float:left;
   padding-left:1em;
+  padding-top: 0.48em;
 }
 
 body {
